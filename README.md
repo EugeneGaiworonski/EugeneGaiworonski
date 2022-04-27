@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EugeneGaiworonski
+- 👋 Hi, I’m Eugene Gaiworonski
 - 👀 I’m interested in vintage computer architecture, like System/360, PDP etc., assembler programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on something interesting.
