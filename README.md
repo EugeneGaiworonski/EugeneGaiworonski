@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene Gaiworonski
-- 👀 I’m interested in vintage computer architecture, like System/360, PDP etc., assembler programming
-- 🌱 I’m currently learning C++ & JS
+- 👀 I’m interested in retrocomputing, assembler programming. I have and use IBM PC AT 286 100% working!
+- 🌱 I’m currently learning C++ & Python
 - 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me. My e-mail e.gaiworonski@sochi.com
 
